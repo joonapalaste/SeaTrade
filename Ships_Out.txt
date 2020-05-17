@@ -1,0 +1,280 @@
+Ship model  0 / Weight:  200 / Max weight:   480 / Engine:  30 / Cabins:  1
+Cargo:   350 / Docks: 0*  0 / Speed (E): 15.00% / Speed (F):  6.25%
+Price:  20300
+_________________________________________
+
+Ship model  1 / Weight:  200 / Max weight:   400 / Engine:  50 / Cabins:  1
+Cargo:   250 / Docks: 0*  0 / Speed (E): 25.00% / Speed (F): 12.50%
+Price:  24500
+_________________________________________
+
+Ship model  2 / Weight:  250 / Max weight:   650 / Engine:  50 / Cabins:  1
+Cargo:   500 / Docks: 0*  0 / Speed (E): 20.00% / Speed (F):  7.69%
+Price:  26500
+_________________________________________
+
+Ship model  3 / Weight:  350 / Max weight:  1190 / Engine:  40 / Cabins:  1
+Cargo:  1050 / Docks: 0*  0 / Speed (E): 11.42% / Speed (F):  3.36%
+Price:  28400
+_________________________________________
+
+Ship model  4 / Weight:  200 / Max weight:   320 / Engine:  70 / Cabins:  1
+Cargo:   150 / Docks: 0*  0 / Speed (E): 35.00% / Speed (F): 21.87%
+Price:  28700
+_________________________________________
+
+Ship model  5 / Weight:  250 / Max weight:   570 / Engine:  70 / Cabins:  1
+Cargo:   400 / Docks: 0*  0 / Speed (E): 28.00% / Speed (F): 12.28%
+Price:  30700
+_________________________________________
+
+Ship model  6 / Weight:  200 / Max weight:   240 / Engine:  90 / Cabins:  1
+Cargo:    50 / Docks: 0*  0 / Speed (E): 45.00% / Speed (F): 37.50%
+Price:  32900
+_________________________________________
+
+Ship model  7 / Weight:  250 / Max weight:   490 / Engine:  90 / Cabins:  1
+Cargo:   300 / Docks: 0*  0 / Speed (E): 36.00% / Speed (F): 18.36%
+Price:  34900
+_________________________________________
+
+Ship model  8 / Weight:  350 / Max weight:  1030 / Engine:  80 / Cabins:  1
+Cargo:   850 / Docks: 0*  0 / Speed (E): 22.85% / Speed (F):  7.76%
+Price:  36800
+_________________________________________
+
+Ship model  9 / Weight:  350 / Max weight:   670 / Engine:  70 / Cabins:  2
+Cargo:   400 / Docks: 0*  0 / Speed (E): 20.00% / Speed (F): 10.44%
+Price:  40700
+_________________________________________
+
+Ship model 10 / Weight:  350 / Max weight:   950 / Engine: 100 / Cabins:  1
+Cargo:   750 / Docks: 0*  0 / Speed (E): 28.57% / Speed (F): 10.52%
+Price:  41000
+_________________________________________
+
+Ship model 11 / Weight:  250 / Max weight:   370 / Engine: 120 / Cabins:  1
+Cargo:   150 / Docks: 0*  0 / Speed (E): 48.00% / Speed (F): 32.43%
+Price:  41200
+_________________________________________
+
+Ship model 12 / Weight:  350 / Max weight:   630 / Engine:  80 / Cabins:  2
+Cargo:   350 / Docks: 0*  0 / Speed (E): 22.85% / Speed (F): 12.69%
+Price:  42800
+_________________________________________
+
+Ship model 13 / Weight:  400 / Max weight:   800 / Engine: 100 / Cabins:  2
+Cargo:   500 / Docks: 0*  0 / Speed (E): 25.00% / Speed (F): 12.50%
+Price:  49000
+_________________________________________
+
+Ship model 14 / Weight:  600 / Max weight:  1920 / Engine:  70 / Cabins:  2
+Cargo:  1650 / Docks: 0*  0 / Speed (E): 11.66% / Speed (F):  3.64%
+Price:  50700
+_________________________________________
+
+Ship model 15 / Weight:  600 / Max weight:  1600 / Engine:  50 / Cabins:  3
+Cargo:  1250 / Docks: 0*  0 / Speed (E):  8.33% / Speed (F):  3.12%
+Price:  52500
+_________________________________________
+
+Ship model 16 / Weight:  400 / Max weight:  1000 / Engine: 150 / Cabins:  1
+Cargo:   750 / Docks: 0*  0 / Speed (E): 37.50% / Speed (F): 15.00%
+Price:  53500
+_________________________________________
+
+Ship model 17 / Weight:  600 / Max weight:  2120 / Engine: 120 / Cabins:  1
+Cargo:  1900 / Docks: 0*  0 / Speed (E): 20.00% / Speed (F):  5.66%
+Price:  55200
+_________________________________________
+
+Ship model 18 / Weight:  600 / Max weight:  1800 / Engine: 100 / Cabins:  2
+Cargo:  1500 / Docks: 0*  0 / Speed (E): 16.66% / Speed (F):  5.55%
+Price:  57000
+_________________________________________
+
+Ship model 19 / Weight:  650 / Max weight:  1730 / Engine:  80 / Cabins:  3
+Cargo:  1350 / Docks: 0*  0 / Speed (E): 12.30% / Speed (F):  4.62%
+Price:  60800
+_________________________________________
+
+Ship model 20 / Weight:  600 / Max weight:  1720 / Engine: 120 / Cabins:  2
+Cargo:  1400 / Docks: 0*  0 / Speed (E): 20.00% / Speed (F):  6.97%
+Price:  61200
+_________________________________________
+
+Ship model 21 / Weight:  600 / Max weight:  2000 / Engine: 150 / Cabins:  1
+Cargo:  1750 / Docks: 0*  0 / Speed (E): 25.00% / Speed (F):  7.50%
+Price:  61500
+_________________________________________
+
+Ship model 22 / Weight:  700 / Max weight:  1940 / Engine:  90 / Cabins:  3
+Cargo:  1550 / Docks: 0*  0 / Speed (E): 12.85% / Speed (F):  4.63%
+Price:  64900
+_________________________________________
+
+Ship model 23 / Weight:  650 / Max weight:  1850 / Engine: 150 / Cabins:  2
+Cargo:  1500 / Docks: 0*  0 / Speed (E): 23.07% / Speed (F):  8.10%
+Price:  69500
+_________________________________________
+
+Ship model 24 / Weight: 1000 / Max weight:  3250 / Engine: 120 / Cabins:  3
+Cargo:  2500 / Docks: 1*250 / Speed (E): 12.00% / Speed (F):  3.69%
+Price:  96500
+_________________________________________
+
+Ship model 25 / Weight: 1100 / Max weight:  3710 / Engine: 130 / Cabins:  3
+Cargo:  2950 / Docks: 1*250 / Speed (E): 11.81% / Speed (F):  3.50%
+Price: 102600
+_________________________________________
+
+Ship model 26 / Weight: 1100 / Max weight:  3800 / Engine: 120 / Cabins:  3
+Cargo:  3000 / Docks: 1*300 / Speed (E): 10.90% / Speed (F):  3.15%
+Price: 103000
+_________________________________________
+
+Ship model 27 / Weight: 1200 / Max weight:  3780 / Engine: 150 / Cabins:  4
+Cargo:  2850 / Docks: 1*300 / Speed (E): 12.50% / Speed (F):  3.96%
+Price: 119300
+_________________________________________
+
+Ship model 28 / Weight: 1500 / Max weight:  5080 / Engine: 100 / Cabins:  5
+Cargo:  4100 / Docks: 1*300 / Speed (E):  6.66% / Speed (F):  1.96%
+Price: 126800
+_________________________________________
+
+Ship model 29 / Weight: 1600 / Max weight:  5640 / Engine:  90 / Cabins:  5
+Cargo:  4650 / Docks: 1*320 / Speed (E):  5.62% / Speed (F):  1.59%
+Price: 129700
+_________________________________________
+
+Ship model 30 / Weight: 1600 / Max weight:  5580 / Engine: 100 / Cabins:  5
+Cargo:  4600 / Docks: 1*300 / Speed (E):  6.25% / Speed (F):  1.79%
+Price: 130800
+_________________________________________
+
+Ship model 31 / Weight: 1600 / Max weight:  5600 / Engine: 100 / Cabins:  5
+Cargo:  4600 / Docks: 1*320 / Speed (E):  6.25% / Speed (F):  1.78%
+Price: 131800
+_________________________________________
+
+Ship model 32 / Weight: 1600 / Max weight:  5520 / Engine: 120 / Cabins:  5
+Cargo:  4500 / Docks: 1*320 / Speed (E):  7.50% / Speed (F):  2.17%
+Price: 136000
+_________________________________________
+
+Ship model 33 / Weight: 1700 / Max weight:  5860 / Engine: 160 / Cabins:  5
+Cargo:  4800 / Docks: 1*320 / Speed (E):  9.41% / Speed (F):  2.73%
+Price: 148400
+_________________________________________
+
+Ship model 34 / Weight: 2000 / Max weight:  6590 / Engine: 160 / Cabins:  7
+Cargo:  5300 / Docks: 1*350 / Speed (E):  8.00% / Speed (F):  2.42%
+Price: 173900
+_________________________________________
+
+Ship model 35 / Weight: 2000 / Max weight:  6030 / Engine: 200 / Cabins:  8
+Cargo:  4600 / Docks: 1*350 / Speed (E): 10.00% / Speed (F):  3.31%
+Price: 188300
+_________________________________________
+
+Ship model 36 / Weight: 2200 / Max weight:  7040 / Engine: 200 / Cabins:  8
+Cargo:  5600 / Docks: 1*360 / Speed (E):  9.09% / Speed (F):  2.84%
+Price: 196800
+_________________________________________
+
+Ship model 37 / Weight: 2200 / Max weight:  6960 / Engine: 220 / Cabins:  8
+Cargo:  5500 / Docks: 1*360 / Speed (E): 10.00% / Speed (F):  3.16%
+Price: 201000
+_________________________________________
+
+Ship model 38 / Weight: 2500 / Max weight:  8160 / Engine: 250 / Cabins:  8
+Cargo:  6450 / Docks: 2*250 / Speed (E): 10.00% / Speed (F):  3.06%
+Price: 227100
+_________________________________________
+
+Ship model 39 / Weight: 2500 / Max weight:  8040 / Engine: 280 / Cabins:  8
+Cargo:  6300 / Docks: 2*250 / Speed (E): 11.20% / Speed (F):  3.48%
+Price: 233400
+_________________________________________
+
+Ship model 40 / Weight: 2700 / Max weight:  8420 / Engine: 250 / Cabins: 10
+Cargo:  6450 / Docks: 2*280 / Speed (E):  9.25% / Speed (F):  2.96%
+Price: 250100
+_________________________________________
+
+Ship model 41 / Weight: 2700 / Max weight:  8300 / Engine: 280 / Cabins: 10
+Cargo:  6300 / Docks: 2*280 / Speed (E): 10.37% / Speed (F):  3.37%
+Price: 256400
+_________________________________________
+
+Ship model 42 / Weight: 3000 / Max weight:  9960 / Engine: 250 / Cabins: 10
+Cargo:  7950 / Docks: 2*300 / Speed (E):  8.33% / Speed (F):  2.51%
+Price: 264100
+_________________________________________
+
+Ship model 43 / Weight: 3200 / Max weight: 10800 / Engine: 300 / Cabins: 10
+Cargo:  8700 / Docks: 2*320 / Speed (E):  9.37% / Speed (F):  2.77%
+Price: 284600
+_________________________________________
+
+Ship model 44 / Weight: 3300 / Max weight: 10420 / Engine: 320 / Cabins: 12
+Cargo:  8100 / Docks: 2*320 / Speed (E):  9.69% / Speed (F):  3.07%
+Price: 304800
+_________________________________________
+
+Ship model 45 / Weight: 3400 / Max weight: 11680 / Engine: 350 / Cabins: 10
+Cargo:  9450 / Docks: 2*360 / Speed (E): 10.29% / Speed (F):  2.99%
+Price: 307100
+_________________________________________
+
+Ship model 46 / Weight: 3400 / Max weight: 10980 / Engine: 320 / Cabins: 12
+Cargo:  8600 / Docks: 2*350 / Speed (E):  9.41% / Speed (F):  2.91%
+Price: 311800
+_________________________________________
+
+Ship model 47 / Weight: 4000 / Max weight: 13940 / Engine: 300 / Cabins: 12
+Cargo: 11300 / Docks: 3*300 / Speed (E):  7.50% / Speed (F):  2.15%
+Price: 342400
+_________________________________________
+
+Ship model 48 / Weight: 4100 / Max weight: 14420 / Engine: 320 / Cabins: 12
+Cargo: 11700 / Docks: 3*320 / Speed (E):  7.80% / Speed (F):  2.21%
+Price: 353600
+_________________________________________
+
+Ship model 49 / Weight: 4100 / Max weight: 14260 / Engine: 360 / Cabins: 12
+Cargo: 11500 / Docks: 3*320 / Speed (E):  8.78% / Speed (F):  2.52%
+Price: 362000
+_________________________________________
+
+Ship model 50 / Weight: 4200 / Max weight: 14850 / Engine: 360 / Cabins: 12
+Cargo: 12000 / Docks: 3*350 / Speed (E):  8.57% / Speed (F):  2.42%
+Price: 370500
+_________________________________________
+
+Ship model 51 / Weight: 4500 / Max weight: 15740 / Engine: 320 / Cabins: 14
+Cargo: 12700 / Docks: 3*360 / Speed (E):  7.11% / Speed (F):  2.03%
+Price: 387600
+_________________________________________
+
+Ship model 52 / Weight: 4800 / Max weight: 18160 / Engine: 320 / Cabins: 12
+Cargo: 15200 / Docks: 3*400 / Speed (E):  6.66% / Speed (F):  1.76%
+Price: 393600
+_________________________________________
+
+Ship model 53 / Weight: 4500 / Max weight: 15580 / Engine: 360 / Cabins: 14
+Cargo: 12500 / Docks: 3*360 / Speed (E):  8.00% / Speed (F):  2.31%
+Price: 396000
+_________________________________________
+
+Ship model 54 / Weight: 4800 / Max weight: 18000 / Engine: 360 / Cabins: 12
+Cargo: 15000 / Docks: 3*400 / Speed (E):  7.50% / Speed (F):  2.00%
+Price: 402000
+_________________________________________
+
+Ship model 55 / Weight: 4800 / Max weight: 17200 / Engine: 360 / Cabins: 14
+Cargo: 14000 / Docks: 3*400 / Speed (E):  7.50% / Speed (F):  2.09%
+Price: 414000
+_________________________________________
+

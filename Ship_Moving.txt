@@ -1,0 +1,44 @@
+100% = 4 squares / minute
+
+Ship A: Hummingbird (Empty: 48.00% Full: 32.43%)
+Ship B: Centaur     (Empty:  5.62% Full:  1.59%)
+
+Time: 0.0 minutes: Ship A is empty, Ship B is empty
+Ship A has 34.164 moves, Ship B has 4 moves, time increment = 17.794 minutes
+Time: 17.794 minutes: Ship A is empty, Ship B is empty
+Ship A has 34.327 moves, Ship B has 4 moves, time increment = 17.794 minutes
+Ship A moves 17 moves, then becomes full (23.082+0.327-17=6.409 moves left)
+Ship A moves 6 moves
+Time: 35.587 minutes: Ship A is full, Ship B is empty
+Ship A has 23.491 moves, Ship B has 4 moves, time increment = 17.794 minutes
+Ship B moves 2 moves, then becomes full (1.132+0.0-2=-0.868 moves left)
+Ship B stops
+Time: 53.381 minutes: Ship A is full, Ship B is full
+Ship A has 82.076 moves, Ship B has 3.132 moves, time increment = 62.893 minutes
+Ship A moves 41 moves, then becomes empty (120.755+.076-41=79.831 moves left)
+Ship A moves 79 moves
+Time: 116.274 minutes: Ship A is empty, Ship B is full
+Ship A has 121.586 moves, Ship B has 4.132 moves, time increment = 62.893 minutes
+Ship B moves 2 moves, then becomes empty (14.138+.132-2=12.270 moves left)
+Ship B moves 12 moves
+Time: 179.167 minutes: Ship A is empty, Ship B is empty
+Ship A has 34.750 moves, Ship B has 4.270 moves, time increment = 17.794 minutes
+
+Procedure ShipMove
+{
+    If (Ship has less than 1 move left)
+        return;
+    Perform necessary weight alterations;
+    Calculate moves still left;
+    If (Ship has at least 1 move left)
+    {
+        Move;
+        Decrease moves by 1;
+    }
+    If (All ships have less than 1 move left)
+    {
+        Increase time by previously calculated increment;
+        Recalculate time increment so that slowest ship gets 4 moves;
+        Increase all ships' moves by the amount they got;
+    }
+}

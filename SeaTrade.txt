@@ -1,0 +1,59 @@
+Thursday 8th August 2002
+© Joona I Palaste
+
+
+        SeaTrade beta-test version - instructions
+        =========================================
+
+
+This is a new beta-test version of my latest Amiga game, Sea Trade. The game
+takes place on a 1024*1024 square map, with 128 cities divided into 5 different
+colour groups. You have to carry cargo and passengers between the cities.
+
+Start the game by typing "SeaTrade" at the CLI prompt. If you have a saved game,
+you can give the filename as a command line argument to SeaTrade and it will
+load the game.
+
+You will first see a screenmode requester. Select a suitable screenmode and
+click OK to start the game. You should have at least half a megabyte of free
+Chip memory and at least one megabyte of free other memory (Chip or Fast) to
+avoid problems. The game requires a display of at least 320*256, with 8
+bitplanes (256 colours). This means the game won't work on a stock OCS/ECS
+Amiga - AGA or a graphics card is required!
+
+When the game starts, you find yourself in the possession of a Spider ship (the
+cheapest ship in the game), and 100 credits. Search the surrounding sea to find
+a city. You can steer the ship by clicking on the directional buttons on the
+top right corner, or with the cursor keys or the numeric keypad.
+
+When you are in a city, dock by clicking on the Dock button. Inside a city you
+can buy/sell cargo by clicking on the "Buy/Sell Cargo" button. This opens a new
+window, where you can choose the cargo type, enter how much you want, and then
+click on "Buy" or "Sell". When buying cargo, you pay full price, but when
+selling, you only get 90% of the price. Close the window to continue.
+
+You can also sell your ship or buy a new ship in the city. Clicking on "Buy a
+new ship" opens a window to view the ships available in the city. Select the
+one you want and click on "Buy". The ship will be selected as your current ship
+so you can equip it with crew, fuel and food.
+
+Transferring people and cargo between ships can be done by clicking on
+"Transfer". If there are more than one ship in the city you will be asked
+which ship you want to transfer with. The ship named "«Something»" is not a
+real ship - it's the city's storage warehouse, which can't move out of the
+city. You can leave the city by clicking on "EXIT".
+
+Note that all cities belonging to the same colour group tend to have the same
+imports and the same exports. To make a profit, you should ship between
+different colour groups. If you see a city in the game window, clicking on the
+city will show a list of the city's imports and exports. You can also press the
+M key to show a small map of your surroundings. Close the window or press M
+again to resume.
+
+Roughly, the colour groups are something like the following:
+Central - Luxury residences, like Earth in Frontier
+Northwest - Mining colony
+Northeast - Natural woodlands and farms
+Southwest - Industrial grounds
+Southeast - Urban metropolis
+This should give you a general idea of what to trade where. Have fun!

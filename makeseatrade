@@ -1,0 +1,1 @@
+dcc SeaTrade_main.c SeaTrade_shipspeople.c SeaTrade_cities.c SeaTrade2.c -o SeaTrade -lm
